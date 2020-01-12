@@ -18,14 +18,15 @@
 - [eCommerce](#ecommerce)
 - [Insights](#insights)
 - [Ancilliary Technologies](#ancilliary-technologies)
-- [Retail News, Information, and Conferences](#retailnews,-information,-and-conferences)
+- [Retail News](#retail-news)
+- [Retail Conferences](#retail-conferences)
 
 ## Merchandise Planning
 ### Providers/Platforms
-* TXT Retail (Aptos to acquire)
-* RELEX (acquired Galleria RTS)
+* TXT Retail - (Aptos to acquire)
+* RELEX - (acquired Galleria RTS)
 * JDA Demand and Fulfil
-* Predictix (acquired by Infor) - used by Whole Foods and Home Depot
+* Predictix - used by Whole Foods and Home Depot (acquired by Infor)
 * 7thonline
 * JustEnough
 * Logility
