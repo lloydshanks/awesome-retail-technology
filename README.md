@@ -18,7 +18,7 @@
 - [eCommerce](#ecommerce)
 - [Insights](#insights)
 - [Ancilliary Technologies](#ancilliary-technologies)
-- [Retail News, Information, and Conferences](#retailnews,-information,-and-conferences))
+- [Retail News, Information, and Conferences](#retailnews,-information,-and-conferences)
 
 ## Merchandise Planning
 ### Providers/Platforms
