@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome retail software, platforms, decks, and talks.
+> A curated list of awesome retail software, platforms, and conferences.
 
 **Contents**
 
@@ -33,7 +33,7 @@
 
 ## Warehouse
 ### Reading
-* Warehouse and Distribution Science - https://www.warehouse-science.com
+* [Warehouse and Distribution Science](#https://www.warehouse-science.com)
 ### Providers/Platforms
 * Manhattan (purchase of Global Bay Technologies in 2014)
 * Accellos A1W
@@ -42,7 +42,7 @@
 ## Inventory
 ### Platforms/Platforms
 * Unleashed Inventory
-* [Cin7](https://www.cin7.com)
+* [Cin7](#https://www.cin7.com)
 * Dear Systems
 * Trade Gecko
 
@@ -72,7 +72,7 @@
 
 ## Customer Communication
 ### Providers/Platforms
-* Twilio - Comms SaaS: IVR, SMS, Voice, Video, SIP
+* Twilio - IVR, SMS, Voice, Video, SIP
 * Dot Digital
 * Klaviyo
 * Emarsys
@@ -81,8 +81,8 @@
 ### Providers/Platforms
 * Apigee
 * Mashery
-* Mulesoft - API layer
-* Kong - API layer -> getkong.org
+* Mulesoft
+* [Kong](#getkong.org)
 
 ## Marketplaces
 ### Providers/Platforms
@@ -119,20 +119,20 @@
 ### Providers/Plaftorms
 * Purple Wifi (Social Wifi connectivity)
 * mPort MyPassport - fashion and health measurements
-* Queue It - ensure high traffic websites stay up! (https://queue-it.com)
-* FittingBox - The mirror reinvented (https://www.fittingbox.com/en/)
+* [Queue It](#https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
+* [FittingBox](#https://www.fittingbox.com/en/) - The mirror reinvented
 
-## Retail News, Information, and Conferences
-### Sources
-* RetailWeek - http://www.retail-week.com
-* RetailWire - http://www.retailwire.com
-* Inside Retail - http://insideretail.com.au
-* Power Retail - http://www.powerretail.com.au
-* Retail Info Systems News - http://risnews.edgl.com/
-### Conferences
-* Inside Retail Live (Sydney) - https://insideretail.live/
-* IMedia Retail Summit (Gold Coast) - http://imediasummit.com.au/
-* Seamless Expo (Melbourne) - http://seamless-expo.com.au/
-* Shop Talk (Las Vegas) - http://www.shoptalk.com/
-* Retail Leaders Forum (Sydney) - http://retailleaders.com.au/
-* Online Retailer (Melbourne, Sydney, New Zealand) - http://www.onlineretailer.com/
+## Retail News
+* [RetailWeek](#http://www.retail-week.com)
+* [RetailWire](#http://www.retailwire.com)
+* [Inside Retail](#http://insideretail.com.au) - Australian retail news
+* [Power Retail](#http://www.powerretail.com.au) - Australian retail news
+* [Retail Info Systems News](#http://risnews.edgl.com/)
+
+## Retail Conferences
+* [Inside Retail Live](#https://insideretail.live/) - Sydney 
+* [IMedia Retail Summit](#http://imediasummit.com.au/) - Gold Coast
+* [Seamless Expo](#http://seamless-expo.com.au/) - Melbourne
+* [Shop Talk](#http://www.shoptalk.com/) - Las Vegas
+* [Retail Leaders Forum](#http://retailleaders.com.au/) - Sydney 
+* [Online Retailer](#http://www.onlineretailer.com/) - Melbourne, Sydney, New Zealand 
