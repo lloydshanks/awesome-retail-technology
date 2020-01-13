@@ -80,9 +80,10 @@
 
 ## Integration
 ### Providers/Platforms
-* Apigee
+* Apigee - (owned by Google)
 * Mashery
-* Mulesoft
+* Mulesoft - (owned by Salesforce)
+* Apiary - (owned by Oracle)
 * [Kong](#getkong.org)
 
 ## Marketplaces
