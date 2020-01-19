@@ -40,6 +40,10 @@
 * Accellos A1W
 * Microlistics WMS
 
+## Sourcing and Product Lifecycle Management
+### Providers/Platforms
+* [CBX Software](#https://www.cbxsoftware.com)
+
 ## Inventory
 ### Platforms/Platforms
 * Unleashed Inventory
