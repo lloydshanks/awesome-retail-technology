@@ -23,40 +23,40 @@
 
 ## Merchandise Planning
 ### Providers/Platforms
-* [TXT Retail](#https://www.aptos.com/solutions/forecasting-allocation-replenishment/ - (Aptos acquired 2018)
-* [RELEX](#https://www.relexsolutions.com)
-* [BlueYonder](#https://blueyonder.com/solutions/merchandise-planning) (was JDA Demand and Fulfil)
-* [Infor Demand Management](#https://www.infor.com/products/demand-management) (was Predictix - used by Whole Foods and Home Depot)
-* [7thonline](#https://www.7thonline.com)
-* [JustEnough](#https://mi9retail.com/retail-demand-management-software/) (acquired by Mi9 Retail)
-* [Logility](#https://www.logility.com/solutions/demand-optimization/)
-* [Anaplan](#https://www.anaplan.com)
+* [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/ - (Aptos acquired 2018)
+* [RELEX](https://www.relexsolutions.com)
+* [BlueYonder](https://blueyonder.com/solutions/merchandise-planning) (was JDA Demand and Fulfil)
+* [Infor Demand Management](https://www.infor.com/products/demand-management) (was Predictix - used by Whole Foods and Home Depot)
+* [7thonline](https://www.7thonline.com)
+* [JustEnough](https://mi9retail.com/retail-demand-management-software/) (acquired by Mi9 Retail)
+* [Logility](https://www.logility.com/solutions/demand-optimization/)
+* [Anaplan](https://www.anaplan.com)
 
 ## Warehouse
 ### Reading
-* [Warehouse and Distribution Science](#https://www.warehouse-science.com/book/index.html)
+* [Warehouse and Distribution Science](https://www.warehouse-science.com/book/index.html)
 ### Providers/Platforms
-* [Manhattan](#https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
-* [Koerber]#https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
+* [Manhattan](https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
+* [Koerber](https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
 * [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
 
 ## Sourcing and Product Lifecycle Management
 ### Providers/Platforms
-* [CBX Software](#https://www.cbxsoftware.com)
+* [CBX Software](https://www.cbxsoftware.com)
 
 ## Inventory
 ### Platforms/Platforms
-* [Unleashed Inventory](#https://www.unleashedsoftware.com)
-* [Cin7](#https://www.cin7.com)
-* [Dear Systems](#https://dearsystems.com)
-* [Trade Gecko](#https://www.tradegecko.com)
+* [Unleashed Inventory](https://www.unleashedsoftware.com)
+* [Cin7](https://www.cin7.com)
+* [Dear Systems](https://dearsystems.com)
+* [Trade Gecko](https://www.tradegecko.com)
 
 ## Supply Chain
 ### Providers/Platforms
-* [Shipwire](#https://www.shipwire.com) - 3PL as an API
-* [project44](#https://www.project44.com) - delivery API's
-* [Flexport](#https://www.flexport.com)
-* [Wisetech Global](#https://www.wisetechglobal.com)
+* [Shipwire](https://www.shipwire.com) - 3PL as an API
+* [project44](https://www.project44.com) - delivery API's
+* [Flexport](https://www.flexport.com)
+* [Wisetech Global](https://www.wisetechglobal.com)
 
 ## Loyalty
 ### Providers/Platforms
