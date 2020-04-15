@@ -60,11 +60,11 @@
 
 ## Loyalty
 ### Providers/Platforms
+* Cheetah Digital
+* bLoyal
 * AIMIA
 * Arkade Loyalty
 * Givex Loyalty
-* Cheetah Digital
-* bLoyal
 
 ## Point of Sale
 ### Software
@@ -77,10 +77,11 @@
 
 ## Customer Communication
 ### Providers/Platforms
-* Twilio - IVR, SMS, Voice, Video, SIP
-* Dot Digital
-* Klaviyo
-* Emarsys
+* [Twilio](https://www.twilio.com) - IVR, SMS, Voice, Video, SIP, Email (Sendgrid)
+* [Freshdesk](https://www.freshworks.com) - Ticketing, voice, chat
+* [Dot Digital](https://dotdigital.com) - Email, SMS, Social
+* [Klaviyo](https://www.klaviyo.com) - Email
+* [Emarsys](https://emarsys.com)
 
 ## Integration
 ### Providers/Platforms
@@ -120,6 +121,7 @@
 * Metabase
 * Superset
 * Redash
+* Prefect
 
 ## Ancillary Technology
 ### Providers/Plaftorms
