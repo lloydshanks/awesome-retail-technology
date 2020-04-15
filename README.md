@@ -23,22 +23,22 @@
 
 ## Merchandise Planning
 ### Providers/Platforms
-* TXT Retail - (Aptos to acquire)
-* RELEX - (acquired Galleria RTS)
-* JDA Demand and Fulfil
-* Predictix - used by Whole Foods and Home Depot (acquired by Infor)
-* 7thonline
-* JustEnough
-* Logility
-* Anaplan
+* [TXT Retail](#https://www.aptos.com/solutions/forecasting-allocation-replenishment/ - (Aptos acquired 2018)
+* [RELEX](#https://www.relexsolutions.com)
+* [BlueYonder](#https://blueyonder.com/solutions/merchandise-planning) (was JDA Demand and Fulfil)
+* [Infor Demand Management](#https://www.infor.com/products/demand-management) (was Predictix - used by Whole Foods and Home Depot)
+* [7thonline](#https://www.7thonline.com)
+* [JustEnough](#https://mi9retail.com/retail-demand-management-software/) (acquired by Mi9 Retail)
+* [Logility](#https://www.logility.com/solutions/demand-optimization/)
+* [Anaplan](#https://www.anaplan.com)
 
 ## Warehouse
 ### Reading
-* [Warehouse and Distribution Science](#https://www.warehouse-science.com)
+* [Warehouse and Distribution Science](#https://www.warehouse-science.com/book/index.html)
 ### Providers/Platforms
-* Manhattan (purchase of Global Bay Technologies in 2014)
-* Accellos A1W
-* Microlistics WMS
+* [Manhattan](#https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
+* [Koerber]#https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
+* [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
 
 ## Sourcing and Product Lifecycle Management
 ### Providers/Platforms
@@ -46,17 +46,17 @@
 
 ## Inventory
 ### Platforms/Platforms
-* Unleashed Inventory
+* [Unleashed Inventory](#https://www.unleashedsoftware.com)
 * [Cin7](#https://www.cin7.com)
-* Dear Systems
-* Trade Gecko
+* [Dear Systems](#https://dearsystems.com)
+* [Trade Gecko](#https://www.tradegecko.com)
 
 ## Supply Chain
 ### Providers/Platforms
-* Shipwire - 3PL as an API
-* [project44](p-44.com) - delivery API's
-* Flexport
-* Wisetech
+* [Shipwire](#https://www.shipwire.com) - 3PL as an API
+* [project44](#https://www.project44.com) - delivery API's
+* [Flexport](#https://www.flexport.com)
+* [Wisetech Global](#https://www.wisetechglobal.com)
 
 ## Loyalty
 ### Providers/Platforms
