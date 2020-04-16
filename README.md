@@ -101,7 +101,7 @@
 ## eCommerce
 ### Themes
 * Headless commerce - Molten, ElasticPath
-### Software
+### Platforms
 * Demandware (Salesforce Commerce Cloud)
 * Hybris (SAP)
 * ATG (Oracle)
@@ -110,10 +110,14 @@
 * ElasticPath
 * Molten
 * Saleor
+### Optimization
+* [Evolv](https://www.evolv.ai/) - Optimized A/B testing
 
 ## Insights
 ### Providers/Platforms
 * AWS RedShift
+* AWS Glue
+* [Prefect](#https://www.prefect.io) - Dataflow automation 
 * Python - PANDAS/SciKitLearn
 * Apache Spark
 * Sentient.ai (example: shoeme.ca)
