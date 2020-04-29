@@ -90,6 +90,7 @@
 * Mulesoft - (owned by Salesforce)
 * Apiary - (owned by Oracle)
 * [Kong](#getkong.org)
+* [Celigo](https://www.celigo.com) - iPaaS, integration platform
 
 ## Marketplaces
 ### Providers/Platforms
