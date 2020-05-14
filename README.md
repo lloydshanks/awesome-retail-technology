@@ -91,7 +91,7 @@
 * Apiary - (owned by Oracle)
 * [Kong](#getkong.org)
 * [Celigo](https://www.celigo.com) - iPaaS, integration platform
-* [FarApp](https://www.farapp.com/products/) - integration between Netsuite and many eComemrce platforms
+* [FarApp](https://www.farapp.com/products/) - integration between Netsuite and many eComemrce/3PL platforms
 
 ## Marketplaces
 ### Providers/Platforms
