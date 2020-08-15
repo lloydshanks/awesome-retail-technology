@@ -114,6 +114,9 @@
 * Saleor
 ### Optimization
 * [Evolv](https://www.evolv.ai/) - Optimized A/B testing
+### User Experience
+* [Hero](https://www.usehero.com) - Virtual shopping app, bring the store experience online.
+* [bambuser](https://bambuser.com) - Live Video Shopping
 
 ## Insights
 ### Providers/Platforms
