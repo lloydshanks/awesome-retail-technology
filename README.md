@@ -23,7 +23,7 @@
 
 ## Merchandise Planning
 ### Providers/Platforms
-* [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/ - (Aptos acquired 2018)
+* [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/) - (Aptos acquired 2018)
 * [RELEX](https://www.relexsolutions.com)
 * [BlueYonder](https://blueyonder.com/solutions/merchandise-planning) (was JDA Demand and Fulfil)
 * [Infor Demand Management](https://www.infor.com/products/demand-management) (was Predictix - used by Whole Foods and Home Depot)
@@ -45,11 +45,16 @@
 * [CBX Software](https://www.cbxsoftware.com)
 
 ## Inventory
-### Platforms/Platforms
+### Providers/Platforms
 * [Unleashed Inventory](https://www.unleashedsoftware.com)
 * [Cin7](https://www.cin7.com)
 * [Dear Systems](https://dearsystems.com)
 * [Trade Gecko](https://www.tradegecko.com)
+
+## Product Data
+### Providers/Platforms
+* [Pimcore](https://pimcore.com/en) - Product master data and asset management
+
 
 ## Supply Chain
 ### Providers/Platforms
@@ -102,16 +107,16 @@
 
 ## eCommerce
 ### Themes
-* Headless commerce - Molten, ElasticPath
+* Headless commerce - Saleor, ElasticPath, Vue Storefront are leaders in this field, Shopify, Magento, and BigCommerce are adapting
 ### Platforms
-* Demandware (Salesforce Commerce Cloud)
-* Hybris (SAP)
-* ATG (Oracle)
-* Magento
-* Shopify
-* ElasticPath
-* Molten
-* Saleor
+* [ElasticPath](https://www.elasticpath.com) - headless eCommerce platform (acquired Moltin eCommerce in Jan 2020)
+* [Saleor](https://saleor.io) - headless eCommerce platform built on Django (Python)
+* [Vue Storefront](https://www.vuestorefront.io) - eCommerce PWA frontend built in Vue/Nuxt
+* [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger)
+* [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware)
+* [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - owned by SAP
+* [Magento](https://magento.com) - open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe)
+
 ### Optimization
 * [Evolv](https://www.evolv.ai/) - Optimized A/B testing
 ### User Experience
