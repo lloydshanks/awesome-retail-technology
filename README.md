@@ -65,52 +65,57 @@
 
 ## Loyalty
 ### Providers/Platforms
-* Cheetah Digital
-* bLoyal
-* AIMIA
-* Arkade Loyalty
-* Givex Loyalty
+* [Cheetah Digital](https://www.cheetahdigital.com) - 
+* [bLoyal](https://bloyal.com)
+* [Kognitiv](https://kognitiv.com) - was AIMIA Loyalty
+* [Arkade Loyalty](https://arkade.com.au/loyalty-programs) - Loyalty and clientelling
+* [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS 
 
 ## Point of Sale
 ### Software
-* Retail Directions
-* Markinson Shopkeeper
-* Surefire POS
-* Retail Pro
-* VendHQ
-* ITVisions
+* [Retail Directions](https://www.retaildirections.com) - 
+* [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - 
+* [Surefire POS](https://surefiresystems.com) - 
+* [Retail Pro](https://www.retailpro.com) - 
+* [VendHQ](https://www.vendhq.com/) - 
+* [ITVisions](https://www.itvisions.com.au) - 
+* [Apparel 21](https://apparel21.com) - 
 
 ## Customer Communication
 ### Providers/Platforms
 * [Twilio](https://www.twilio.com) - IVR, SMS, Voice, Video, SIP, Email (Sendgrid)
-* [Freshdesk](https://www.freshworks.com) - Ticketing, voice, chat
+* [Freshdesk](https://www.freshworks.com) - Customer service ticketing (+ voice, chat)
 * [Dot Digital](https://dotdigital.com) - Email, SMS, Social
-* [Klaviyo](https://www.klaviyo.com) - Email
-* [Emarsys](https://emarsys.com)
+* [Klaviyo](https://www.klaviyo.com) - Email marketing
+* [Emarsys](https://emarsys.com) - Email marketing
+* [Dash Hudson](https://dashhudson.com) - Social media management platform
+* [Gorgias](https://www.gorgias.com) - Customer service for online stores
+* [Zendesk](https://www.zendesk.com) - Customer service ticketing (+ voice, chat)
 
 ## Integration
 ### Providers/Platforms
-* Apigee - (owned by Google)
-* Mashery
-* Mulesoft - (owned by Salesforce)
-* Apiary - (owned by Oracle)
-* [Kong](#getkong.org)
+* [Apigee](https://cloud.google.com/apigee/#/homepage) - API management platform (owned by Google)
+* [Mashery](https://www.tibco.com/products/api-management) - API management platform (owned by TIBCO)
+* [Mulesoft](https://www.mulesoft.com) - API management platform (owned by Salesforce)
+* [Apiary](https://apiary.io) - API management platform (owned by Oracle)
+* [Kong](https://konghq.com) - API, service discovery and mesh management platform
 * [Celigo](https://www.celigo.com) - iPaaS, integration platform
 * [FarApp](https://www.farapp.com/products/) - integration between Netsuite and many eComemrce/3PL platforms
 
 ## Marketplaces
 ### Providers/Platforms
-* Mirakl
-* Anatwine
-* IZBERG
-* Ds.co
+* [Mirakl](https://www.mirakl.com) - 
+* [Tradebyte](https://www.tradebyte.com/en/) - 
+* [IZBERG](https://www.izberg-marketplace.com/fr/) -
+* [Marketplacer](https://marketplacer.com) - 
 
 ## eCommerce
 ### Themes
 * Headless commerce - Saleor, ElasticPath, Vue Storefront are leaders in this field, Shopify, Magento, and BigCommerce are adapting
 ### Platforms
-* [ElasticPath](https://www.elasticpath.com) - headless eCommerce platform (acquired Moltin eCommerce in Jan 2020)
-* [Saleor](https://saleor.io) - headless eCommerce platform built on Django (Python)
+* [ElasticPath](https://www.elasticpath.com) - Headless eCommerce platform (acquired Moltin eCommerce in Jan 2020)
+* [commercetools](https://commercetools.com) - Headless eCommerce platform
+* [Saleor](https://saleor.io) - Headless eCommerce platform built on Django (Python)
 * [Vue Storefront](https://www.vuestorefront.io) - eCommerce PWA frontend built in Vue/Nuxt
 * [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger)
 * [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware)
@@ -122,6 +127,12 @@
 ### User Experience
 * [Hero](https://www.usehero.com) - Virtual shopping app, bring the store experience online.
 * [bambuser](https://bambuser.com) - Live Video Shopping
+
+### Promotions Management
+* [Voucherify](https://voucherify.io) - 
+* [Talon.One](https://www.talon.one/e-commerce) - 
+* [Uniqodo](https://www.uniqodo.com) -
+* [Eagle Eye](https://www.eagleeye.com) - 
 
 ## Insights
 ### Providers/Platforms
