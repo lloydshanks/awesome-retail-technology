@@ -56,6 +56,10 @@
 * [Pimcore](https://pimcore.com/en) - Product master data and asset management
 
 
+## Unified Commerce Platform
+### Providers/Platforms
+* [Kibo Commerce](https://kibocommerce.com) - Commerce platform with API-led focus targetting mid-tier companies (eCommerce, order management, Personalisation, POS) 
+
 ## Supply Chain
 ### Providers/Platforms
 * [Shipwire](https://www.shipwire.com) - 3PL as an API
@@ -169,3 +173,11 @@
 * [Shop Talk](#http://www.shoptalk.com/) - Las Vegas
 * [Retail Leaders Forum](#http://retailleaders.com.au/) - Sydney 
 * [Online Retailer](#http://www.onlineretailer.com/) - Melbourne, Sydney, New Zealand 
+
+## Retail Podcasts
+* [Shopology](https://podcasts.apple.com/au/podcast/shopology/id1516972200)
+* [Add To Cart](https://podcasts.apple.com/au/podcast/add-to-cart/id1479484374)
+* [The Retail Podcast by Vue AI](https://podcasts.apple.com/au/podcast/the-retail-podcast-by-vue-ai/id1437126782)
+* [Next in Retail](https://podcasts.apple.com/au/podcast/next-in-retail/id1492714790)
+* [Remarkable Retail](https://podcasts.apple.com/au/podcast/remarkable-retail/id1530627864)
+* [The Modern Retail Podcast](https://podcasts.apple.com/au/podcast/the-modern-retail-podcast/id1290400188)
