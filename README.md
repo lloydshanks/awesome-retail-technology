@@ -79,7 +79,7 @@
 
 ## Customer and Loyalty
 ### Providers/Platforms
-* [Cheetah Digital](https://www.cheetahdigital.com) - 
+* [Cheetah Digital](https://www.cheetahdigital.com) - Customer Engagement Suite, loyalty, personalisation, messaging, and experiences (API-first approach)
 * [bLoyal](https://bloyal.com)
 * [Kognitiv](https://kognitiv.com) - was AIMIA Loyalty
 * [Arkade Loyalty](https://arkade.com.au/loyalty-programs) - Loyalty and clientelling
