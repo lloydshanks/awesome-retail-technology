@@ -67,14 +67,6 @@
 * [Flexport](https://www.flexport.com)
 * [Wisetech Global](https://www.wisetechglobal.com)
 
-## Loyalty
-### Providers/Platforms
-* [Cheetah Digital](https://www.cheetahdigital.com) - 
-* [bLoyal](https://bloyal.com)
-* [Kognitiv](https://kognitiv.com) - was AIMIA Loyalty
-* [Arkade Loyalty](https://arkade.com.au/loyalty-programs) - Loyalty and clientelling
-* [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS 
-
 ## Point of Sale
 ### Software
 * [Retail Directions](https://www.retaildirections.com) - 
@@ -84,6 +76,15 @@
 * [VendHQ](https://www.vendhq.com/) - 
 * [ITVisions](https://www.itvisions.com.au) - 
 * [Apparel 21](https://apparel21.com) - 
+
+## Customer and Loyalty
+### Providers/Platforms
+* [Cheetah Digital](https://www.cheetahdigital.com) - 
+* [bLoyal](https://bloyal.com)
+* [Kognitiv](https://kognitiv.com) - was AIMIA Loyalty
+* [Arkade Loyalty](https://arkade.com.au/loyalty-programs) - Loyalty and clientelling
+* [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS 
+* [Lexer](https://lexer.io) - Customer data platform, analyse, segment, and integrate
 
 ## Customer Communication
 ### Providers/Platforms
