@@ -134,6 +134,7 @@
 ### User Experience
 * [Hero](https://www.usehero.com) - Virtual shopping app, bring the store experience online.
 * [bambuser](https://bambuser.com) - Live Video Shopping
+* [Swym](https://swym.it/) - Enhanced wishlists and back in stock notifications for Shopify Plus, BigCommerce, and Magento
 
 ### Promotions Management
 * [Voucherify](https://voucherify.io) - 
