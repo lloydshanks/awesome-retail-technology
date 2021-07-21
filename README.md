@@ -41,6 +41,11 @@
 * [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
 * [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic)
 
+## Order Management
+### Providers/Platforms
+* [Fluent Commerce](https://fluentcommerce.com} - Order management with buy online pick up in store capabilities
+* [Tecsys Retail Order Management](https://www.tecsys.com/supply-chain-solutions/retail-order-management/) - Order management for retailers, used to be called OrderDynamics pre-acquisition
+
 ## Sourcing and Product Lifecycle Management
 ### Providers/Platforms
 * [CBX Software](https://www.cbxsoftware.com)
