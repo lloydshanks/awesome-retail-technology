@@ -163,6 +163,7 @@
 
 ## Ancillary Technology
 ### Providers/Plaftorms
+* [Yext](https://www.yext.com) - Search for customer queries, listings, pages, reviews, and more
 * Purple Wifi (Social Wifi connectivity)
 * mPort MyPassport - fashion and health measurements
 * [Queue It](#https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
