@@ -45,6 +45,7 @@
 ### Providers/Platforms
 * [Fluent Commerce](https://fluentcommerce.com} - Order management with buy online pick up in store capabilities
 * [Tecsys Retail Order Management](https://www.tecsys.com/supply-chain-solutions/retail-order-management/) - Order management for retailers, used to be called OrderDynamics pre-acquisition
+* [stockinstore](https://www.stockinstore.com/) - Buy online pick up in store (BOPIS) SaaS solution
 
 ## Sourcing and Product Lifecycle Management
 ### Providers/Platforms
