@@ -85,7 +85,7 @@
 * [Apparel 21](https://apparel21.com) - 
 
 ## Customer and Loyalty
-### Providers/Platforms
+### Loyalty
 * [Cheetah Digital](https://www.cheetahdigital.com) - Customer Engagement Suite, loyalty, personalisation, messaging, and experiences (API-first approach)
 * [bLoyal](https://bloyal.com)
 * [Kognitiv](https://kognitiv.com) - was AIMIA Loyalty
@@ -93,8 +93,7 @@
 * [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS 
 * [Lexer](https://lexer.io) - Customer data platform, analyse, segment, and integrate
 
-## Customer Communication
-### Providers/Platforms
+### Communication
 * [Twilio](https://www.twilio.com) - IVR, SMS, Voice, Video, SIP, Email (Sendgrid)
 * [Freshdesk](https://www.freshworks.com) - Customer service ticketing (+ voice, chat)
 * [Moengage](https://www.moengage.com/) - Customer engagement plaform for apps and websites, handling analytics, app push, SMS, and email
@@ -104,6 +103,10 @@
 * [Dash Hudson](https://dashhudson.com) - Social media management platform
 * [Gorgias](https://www.gorgias.com) - Customer service for online stores
 * [Zendesk](https://www.zendesk.com) - Customer service ticketing (+ voice, chat)
+
+### Research and Testing
+* [Hearsay](https://hearsay.io) - Platform to facilitate qualitative customer conversations
+* [CrazyEgg](https://www.crazyegg.com) - User interface heatmaps and recordings
 
 ## Integration
 ### Providers/Platforms
