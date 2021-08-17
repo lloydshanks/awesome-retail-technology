@@ -5,47 +5,77 @@
 > A curated list of awesome retail software, platforms, and conferences.
 
 **Contents**
-
-- [Merchandise Planning](#merchandise-planning)
+- [eCommerce](#ecommerce)
+- [Point of Sale](#point-of-sale)
+- [Order Management](#order-management)
 - [Warehouse](#warehouse)
 - [Inventory](#inventory)
+- [Product Data](#product-data)
+- [Merchandise Planning](#merchandise-planning)
 - [Supply Chain](#supply-chain)
-- [Loyalty](#loyalty)
-- [Point of Sale](#point-of-sale)
-- [Customer Communication](#customer-communication)
+- [Customer and Loyalty](#customer-and-loyalty)
 - [Integration](#integration)
 - [Marketplaces](#marketplaces)
-- [eCommerce](#ecommerce)
 - [Insights](#insights)
 - [Ancilliary Technologies](#ancilliary-technologies)
 - [Retail News](#retail-news)
 - [Retail Conferences](#retail-conferences)
 
-## Merchandise Planning
-### Providers/Platforms
-* [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/) - (Aptos acquired 2018)
-* [RELEX](https://www.relexsolutions.com)
-* [BlueYonder](https://blueyonder.com/solutions/merchandise-planning) (was JDA Demand and Fulfil)
-* [Infor Demand Management](https://www.infor.com/products/demand-management) (was Predictix - used by Whole Foods and Home Depot)
-* [7thonline](https://www.7thonline.com)
-* [JustEnough](https://mi9retail.com/retail-demand-management-software/) (acquired by Mi9 Retail)
-* [Logility](https://www.logility.com/solutions/demand-optimization/)
-* [Anaplan](https://www.anaplan.com)
+## eCommerce
+### Headless
+* [ElasticPath](https://www.elasticpath.com) - Headless eCommerce platform (acquired Moltin eCommerce in Jan 2020)
+* [commercetools](https://commercetools.com) - Headless eCommerce platform
+* [Saleor](https://saleor.io) - Headless eCommerce platform built on Django (Python)
+* [Vue Storefront](https://www.vuestorefront.io) - eCommerce PWA frontend built in Vue/Nuxt
+* [Kibo Commerce](https://kibocommerce.com) - Commerce platform with API-led focus targetting mid-tier companies (eCommerce, order management, Personalisation, POS) 
 
-## Warehouse
-### Reading
-* [Warehouse and Distribution Science](https://www.warehouse-science.com/book/index.html)
-### Providers/Platforms
-* [Manhattan](https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
-* [Koerber](https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
-* [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
-* [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic)
+### Frontends
+* [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger)
+* [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware)
+* [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - owned by SAP
+* [Magento](https://magento.com) - open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe)
+
+### Optimization
+* [Evolv](https://www.evolv.ai/) - Optimized A/B testing
+
+### User Experience
+* [Hero](https://www.usehero.com) - Virtual shopping app, bring the store experience online.
+* [bambuser](https://bambuser.com) - Live Video Shopping
+* [Swym](https://swym.it/) - Enhanced wishlists and back in stock notifications for Shopify Plus, BigCommerce, and Magento
+
+### Promotions Management
+* [Voucherify](https://voucherify.io) - 
+* [Talon.One](https://www.talon.one/e-commerce) - 
+* [Uniqodo](https://www.uniqodo.com) -
+* [Eagle Eye](https://www.eagleeye.com) - 
+
+## Point of Sale
+### Software
+* [Retail Directions](https://www.retaildirections.com) - 
+* [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - 
+* [Surefire POS](https://surefiresystems.com) - 
+* [Retail Pro](https://www.retailpro.com) - 
+* [VendHQ](https://www.vendhq.com/) - 
+* [ITVisions](https://www.itvisions.com.au) - 
+* [Apparel 21](https://apparel21.com) - 
 
 ## Order Management
 ### Providers/Platforms
 * [Fluent Commerce](https://fluentcommerce.com} - Order management with buy online pick up in store capabilities
 * [Tecsys Retail Order Management](https://www.tecsys.com/supply-chain-solutions/retail-order-management/) - Order management for retailers, used to be called OrderDynamics pre-acquisition
 * [stockinstore](https://www.stockinstore.com/) - Buy online pick up in store (BOPIS) SaaS solution
+
+## Warehouse
+### Reading
+* [Warehouse and Distribution Science](https://www.warehouse-science.com/book/index.html)
+
+### Warehouse Management Systems (WMS)
+* [Manhattan](https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
+* [Koerber](https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
+* [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
+
+### Warehouse Automation
+* [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic)
 
 ## Sourcing and Product Lifecycle Management
 ### Providers/Platforms
@@ -61,28 +91,23 @@
 ## Product Data
 ### Providers/Platforms
 * [Pimcore](https://pimcore.com/en) - Product master data and asset management
+* [Arkeneo PIM](https://www.akeneo.com) - Product Information Management and Product Experience Management
 
-
-## Unified Commerce Platform
-### Providers/Platforms
-* [Kibo Commerce](https://kibocommerce.com) - Commerce platform with API-led focus targetting mid-tier companies (eCommerce, order management, Personalisation, POS) 
+## Merchandise Planning
+* [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/) - (Aptos acquired 2018)
+* [RELEX](https://www.relexsolutions.com)
+* [BlueYonder](https://blueyonder.com/solutions/merchandise-planning) (was JDA Demand and Fulfil)
+* [Infor Demand Management](https://www.infor.com/products/demand-management) (was Predictix - used by Whole Foods and Home Depot)
+* [7thonline](https://www.7thonline.com)
+* [JustEnough](https://mi9retail.com/retail-demand-management-software/) (acquired by Mi9 Retail)
+* [Logility](https://www.logility.com/solutions/demand-optimization/)
+* [Anaplan](https://www.anaplan.com)
 
 ## Supply Chain
-### Providers/Platforms
 * [Shipwire](https://www.shipwire.com) - 3PL as an API
 * [project44](https://www.project44.com) - delivery API's
 * [Flexport](https://www.flexport.com)
 * [Wisetech Global](https://www.wisetechglobal.com)
-
-## Point of Sale
-### Software
-* [Retail Directions](https://www.retaildirections.com) - 
-* [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - 
-* [Surefire POS](https://surefiresystems.com) - 
-* [Retail Pro](https://www.retailpro.com) - 
-* [VendHQ](https://www.vendhq.com/) - 
-* [ITVisions](https://www.itvisions.com.au) - 
-* [Apparel 21](https://apparel21.com) - 
 
 ## Customer and Loyalty
 ### Loyalty
@@ -125,36 +150,9 @@
 * [IZBERG](https://www.izberg-marketplace.com/fr/) -
 * [Marketplacer](https://marketplacer.com) - 
 
-## eCommerce
-### Themes
-* Headless commerce - Saleor, ElasticPath, Vue Storefront are leaders in this field, Shopify, Magento, and BigCommerce are adapting
-### Platforms
-* [ElasticPath](https://www.elasticpath.com) - Headless eCommerce platform (acquired Moltin eCommerce in Jan 2020)
-* [commercetools](https://commercetools.com) - Headless eCommerce platform
-* [Saleor](https://saleor.io) - Headless eCommerce platform built on Django (Python)
-* [Vue Storefront](https://www.vuestorefront.io) - eCommerce PWA frontend built in Vue/Nuxt
-* [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger)
-* [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware)
-* [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - owned by SAP
-* [Magento](https://magento.com) - open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe)
-
-### Optimization
-* [Evolv](https://www.evolv.ai/) - Optimized A/B testing
-### User Experience
-* [Hero](https://www.usehero.com) - Virtual shopping app, bring the store experience online.
-* [bambuser](https://bambuser.com) - Live Video Shopping
-* [Swym](https://swym.it/) - Enhanced wishlists and back in stock notifications for Shopify Plus, BigCommerce, and Magento
-
-### Promotions Management
-* [Voucherify](https://voucherify.io) - 
-* [Talon.One](https://www.talon.one/e-commerce) - 
-* [Uniqodo](https://www.uniqodo.com) -
-* [Eagle Eye](https://www.eagleeye.com) - 
-
-## Insights
+## Business Intelligence and Insights
 ### Providers/Platforms
-* AWS RedShift
-* AWS Glue
+* [Amazon Web Services](https://aws.amazon.com) - Composable cloud analytics tools (AWS RedShift, AWS Glue, QuickSight, 
 * [Prefect](#https://www.prefect.io) - Dataflow automation 
 * Python - PANDAS/SciKitLearn
 * Apache Spark
@@ -162,8 +160,7 @@
 * Tableau
 * Metabase
 * Superset
-* Redash
-* Prefect
+* [Redash](https://redash.io) - Open source dashboard creation tool with integrations to many data storage solutions
 
 ## Ancillary Technology
 ### Providers/Plaftorms
