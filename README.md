@@ -188,6 +188,7 @@
 ## Retail Podcasts
 * [Shopology](https://podcasts.apple.com/au/podcast/shopology/id1516972200)
 * [Add To Cart](https://podcasts.apple.com/au/podcast/add-to-cart/id1479484374)
+* [Future Shop Podcast with WSL](https://podcasts.apple.com/au/podcast/future-shop-podcast-with-wsl/id1498794016)
 * [The Retail Podcast by Vue AI](https://podcasts.apple.com/au/podcast/the-retail-podcast-by-vue-ai/id1437126782)
 * [Next in Retail](https://podcasts.apple.com/au/podcast/next-in-retail/id1492714790)
 * [Remarkable Retail](https://podcasts.apple.com/au/podcast/remarkable-retail/id1530627864)
