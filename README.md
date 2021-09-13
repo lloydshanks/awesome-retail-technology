@@ -117,7 +117,12 @@
 * [Kognitiv](https://kognitiv.com) - was AIMIA Loyalty
 * [Arkade Loyalty](https://arkade.com.au/loyalty-programs) - Loyalty and clientelling
 * [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS 
+
+### Customer Data Platforms
 * [Lexer](https://lexer.io) - Customer data platform, analyse, segment, and integrate
+* [Segment](https://segment.com) - 
+* [Hull](https://www.hull.io) - 
+* [Rudderstack](https://rudderstack.com) - 
 
 ### Communication
 * [Twilio](https://www.twilio.com) - IVR, SMS, Voice, Video, SIP, Email (Sendgrid)
