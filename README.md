@@ -49,6 +49,13 @@
 * [Uniqodo](https://www.uniqodo.com) -
 * [Eagle Eye](https://www.eagleeye.com) - 
 
+### Merchandising
+* [Tagalys](https://www.tagalys.com) - 
+
+### Digital Asset Management
+* [Cloudinary]() - 
+* [Brand Folder](https://brandfolder.com/home/) - 
+
 ## Point of Sale
 ### Software
 * [Retail Directions](https://www.retaildirections.com) - 
