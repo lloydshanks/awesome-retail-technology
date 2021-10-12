@@ -146,6 +146,10 @@
 * [Hearsay](https://hearsay.io) - Platform to facilitate qualitative customer conversations
 * [CrazyEgg](https://www.crazyegg.com) - User interface heatmaps and recordings
 
+### Identity and Verifcation
+* [data zoo](https://www.datazoo.com/) - Identity verification and digital onboarding (100+ countries)
+* [RapidID](https://www.rapidid.com/) - Identity verification and anti-fraud prevention
+
 ## Integration
 ### Providers/Platforms
 * [Apigee](https://cloud.google.com/apigee/#/homepage) - API management platform (owned by Google)
