@@ -72,6 +72,7 @@
 * [Tecsys Retail Order Management](https://www.tecsys.com/supply-chain-solutions/retail-order-management/) - Order management for retailers, used to be called OrderDynamics pre-acquisition
 * [stockinstore](https://www.stockinstore.com/) - Buy online pick up in store (BOPIS) SaaS solution
 * [Doddle](https://www.doddle.com/au) - eCommerce Collections and Returns
+* [Shipstation](https://www.shipstation.com/au/) - Order management platform with many carrier and platform integrations in addition to workflow tools.
 
 ## Warehouse
 ### Reading
