@@ -82,6 +82,7 @@
 * [Manhattan](https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
 * [Koerber](https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
 * [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
+* [Peoplevox](https://www.peoplevox.com/en-us/) - SaaS WMS with many pre-built integrations to eCommerce and ERP platforms, also features an open API and the ability to subscribe to WMS events through webhooks.
 
 ### Warehouse Automation
 * [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic)
