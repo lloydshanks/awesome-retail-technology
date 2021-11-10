@@ -56,6 +56,10 @@
 * [Cloudinary]() - 
 * [Brand Folder](https://brandfolder.com/home/) - 
 
+### Duty and Tax Calculation
+* [Avalara](https://www.avalara.com/us/en/products/integrations/shopify-plus.html) - Duty and tax landed cost management with tax advise assistance, plugins for WooCommerce, Shopify Plus, Magento, NetSuite and more
+* [Zonos](https://zonos.com) - International duty and tax landed cost calculation and reporting with plugins for BigComemrce, Shopify, and Magento amoung others
+
 ## Point of Sale
 ### Software
 * [Retail Directions](https://www.retaildirections.com) - 
