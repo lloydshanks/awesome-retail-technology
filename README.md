@@ -165,6 +165,7 @@
 * [Kong](https://konghq.com) - API, service discovery and mesh management platform
 * [Celigo](https://www.celigo.com) - iPaaS, integration platform
 * [FarApp](https://www.farapp.com/products/) - integration between Netsuite and many eComemrce/3PL platforms
+* [Glew](https://www.glew.io) - SaaS integration platform more than 150 pre-built integrations
 
 ## Marketplaces
 ### Providers/Platforms
