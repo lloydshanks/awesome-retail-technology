@@ -132,8 +132,9 @@
 * [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS 
 
 ### Customer Data Platforms
-* [Lexer](https://lexer.io) - Customer data platform, analyse, segment, and integrate
+* [Lexer](https://lexer.io) - Customer data collect, analyse, segment, and integrate audiences to external platforms
 * [Segment](https://segment.com) - 
+* [Simon Data](https://www.simondata.com) - First party data collection, 60+ integrations with existing platforms, audience generation, email marketing
 * [Hull](https://www.hull.io) - 
 * [Rudderstack](https://rudderstack.com) - 
 
