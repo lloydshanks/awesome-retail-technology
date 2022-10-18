@@ -90,6 +90,8 @@
 
 ### Warehouse Automation
 * [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic)
+* [Locus Robotics](https://locusrobotics.com) - Autonomous Mobile Robots for warehouse automation
+* [6 River Systems](https://6river.com/) - Autonomus Mobile Robotos for warehouse automation
 
 ## Sourcing and Product Lifecycle Management
 ### Providers/Platforms
