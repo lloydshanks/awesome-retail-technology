@@ -83,6 +83,7 @@
 * [Warehouse and Distribution Science](https://www.warehouse-science.com/book/index.html)
 
 ### Warehouse Management Systems (WMS)
+* [ShipHero](https://shiphero.com) - great SaaS warehouse management system from a company which also runs over 100,000m2 of warehouses
 * [Manhattan](https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
 * [Koerber](https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
 * [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
@@ -101,8 +102,9 @@
 ### Providers/Platforms
 * [Unleashed Inventory](https://www.unleashedsoftware.com)
 * [Cin7](https://www.cin7.com)
-* [Dear Systems](https://dearsystems.com)
+* [Dear Systems](https://dearsystems.com) - was purchased by Cin7, now referred to as Cin7 Core
 * [Trade Gecko](https://www.tradegecko.com)
+* [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs 
 
 ## Product Data
 ### Providers/Platforms
