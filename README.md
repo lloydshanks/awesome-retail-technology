@@ -50,10 +50,13 @@
 * [Eagle Eye](https://www.eagleeye.com) - 
 
 ### Merchandising
-* [Tagalys](https://www.tagalys.com) - 
+* [Tagalys](https://www.tagalys.com) -
+* [SearchSpring](https://searchspring.com) - Site Search, Merchandising and Personalization Platform
+* [Algolia](https://www.algolia.com) - Site seach with pre-built integrations to many eCommerce platforms
+* [Crownpeak](https://www.crownpeak.com/) - was called FredHopper, used by many medium to large eCommerce companies
 
 ### Digital Asset Management
-* [Cloudinary]() - 
+* [Cloudinary](https://cloudinary.com) - enterprise asset management with advanced video and image processing automation
 * [Brand Folder](https://brandfolder.com/home/) - 
 
 ### Duty and Tax Calculation
