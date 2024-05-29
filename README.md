@@ -68,7 +68,8 @@
 * [Retail Pro](https://www.retailpro.com) - 
 * [VendHQ](https://www.vendhq.com/) - 
 * [ITVisions](https://www.itvisions.com.au) - 
-* [Apparel 21](https://apparel21.com) - 
+* [Apparel 21](https://apparel21.com) -
+* [Shopify POS](
 
 ## Order Management
 ### Providers/Platforms
@@ -100,10 +101,10 @@
 
 ## Inventory
 ### Providers/Platforms
-* [Unleashed Inventory](https://www.unleashedsoftware.com)
-* [Cin7](https://www.cin7.com)
-* [Dear Systems](https://dearsystems.com) - was purchased by Cin7, now referred to as Cin7 Core
-* [Trade Gecko](https://www.tradegecko.com)
+* [Unleashed Inventory](https://www.unleashedsoftware.com) - 
+* [Cin7 Omni](https://www.cin7.com) - Inventory system with wide ranging 3PL integrations, not very modern, API isn't great
+* [Cin7 Core](https://dearsystems.com) - solid Iventory/ERP for small to  medium businesses (was called DEAR Inventory), good core API, API depth isn't great though
+* [Trade Gecko](https://www.tradegecko.com) - purchased by Intuit and shut down
 * [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs 
 
 ## Product Data
@@ -181,8 +182,8 @@
 
 ## Business Intelligence and Insights
 ### Providers/Platforms
-* [Amazon Web Services](https://aws.amazon.com) - Composable cloud analytics tools (AWS RedShift, AWS Glue, QuickSight, 
-* [Prefect](#https://www.prefect.io) - Dataflow automation 
+* [Amazon Web Services](https://aws.amazon.com) - Composable cloud analytics tools (AWS RedShift, AWS Glue, QuickSight)
+* [Prefect](https://www.prefect.io) - Dataflow automation 
 * Python - PANDAS/SciKitLearn
 * Apache Spark
 * Sentient.ai (example: shoeme.ca)
@@ -196,23 +197,24 @@
 * [Yext](https://www.yext.com) - Search for customer queries, listings, pages, reviews, and more
 * Purple Wifi (Social Wifi connectivity)
 * mPort MyPassport - fashion and health measurements
-* [Queue It](#https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
-* [FittingBox](#https://www.fittingbox.com/en/) - The mirror reinvented
+* [Queue It](https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
+* [FittingBox](https://www.fittingbox.com/en/) - The mirror reinvented
+* [Clerk](https://clerk.com) - Sophisticated user authentication
 
 ## Retail News
-* [RetailWeek](#http://www.retail-week.com)
-* [RetailWire](#http://www.retailwire.com)
-* [Inside Retail](#http://insideretail.com.au) - Australian retail news
-* [Power Retail](#http://www.powerretail.com.au) - Australian retail news
-* [Retail Info Systems News](#http://risnews.edgl.com/)
+* [RetailWeek](http://www.retail-week.com)
+* [RetailWire](http://www.retailwire.com)
+* [Inside Retail](http://insideretail.com.au) - Australian retail news
+* [Power Retail](http://www.powerretail.com.au) - Australian retail news
+* [Retail Info Systems News](http://risnews.edgl.com/)
 
 ## Retail Conferences
-* [Inside Retail Live](#https://insideretail.live/) - Sydney 
-* [IMedia Retail Summit](#http://imediasummit.com.au/) - Gold Coast
-* [Seamless Expo](#http://seamless-expo.com.au/) - Melbourne
-* [Shop Talk](#http://www.shoptalk.com/) - Las Vegas
-* [Retail Leaders Forum](#http://retailleaders.com.au/) - Sydney 
-* [Online Retailer](#http://www.onlineretailer.com/) - Melbourne, Sydney, New Zealand 
+* [Inside Retail Live](https://insideretail.live/) - Sydney 
+* [IMedia Retail Summit](http://imediasummit.com.au/) - Gold Coast
+* [Seamless Expo](http://seamless-expo.com.au/) - Melbourne
+* [Shop Talk](http://www.shoptalk.com/) - Las Vegas
+* [Retail Leaders Forum](http://retailleaders.com.au/) - Sydney 
+* [Online Retailer](http://www.onlineretailer.com/) - Melbourne, Sydney, New Zealand 
 
 ## Retail Podcasts
 * [Shopology](https://podcasts.apple.com/au/podcast/shopology/id1516972200)
