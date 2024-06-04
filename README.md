@@ -130,6 +130,11 @@
 * [project44](https://www.project44.com) - delivery API's
 * [Flexport](https://www.flexport.com)
 * [Wisetech Global](https://www.wisetechglobal.com)
+### EDI Providers
+* [IPT Systems](https://www.iptsystems.com/) - 
+* [True Commerce](https://www.truecommerce.com) -
+* [Crossfire](https://www.crossfireintegration.com/solutions/edi-solutions/) - 
+* [SPS Commerce](https://www.spscommerce.com) -  
 
 ## Customer and Loyalty
 ### Loyalty
