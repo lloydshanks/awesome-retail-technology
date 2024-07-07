@@ -96,7 +96,9 @@
 ### Warehouse Automation
 * [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic)
 * [Locus Robotics](https://locusrobotics.com) - Autonomous Mobile Robots for warehouse automation
-* [6 River Systems](https://6river.com/) - Autonomus Mobile Robotos for warehouse automation
+* [6 River Systems](https://6river.com/) - Autonomus Mobile Robots for warehouse automation
+* [HAI Robotoics](https://www.hairobotics.com) - AMR picking totes from fixed racks
+* [Korber Supply Chain](https://koerber-supplychain.com) - AMR and 3D storage solutions
 
 ## Sourcing and Product Lifecycle Management
 ### Providers/Platforms
