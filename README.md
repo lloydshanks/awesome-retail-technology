@@ -101,10 +101,6 @@
 * [HAI Robotoics](https://www.hairobotics.com) - AMR picking totes from fixed racks
 * [Korber Supply Chain](https://koerber-supplychain.com) - AMR and 3D storage solutions
 
-## Sourcing and Product Lifecycle Management
-### Providers/Platforms
-* [CBX Software](https://www.cbxsoftware.com)
-
 ## Inventory
 ### Providers/Platforms
 * [Unleashed Inventory](https://www.unleashedsoftware.com) - 
@@ -116,6 +112,7 @@
 ## Sourcing and Sustainability
 ### Providers/Platforms
 * [TradeBeyond](https://tradebeyond.com) - SaaS sourcing software for supplier management, product lifecycle management, sourcing and procurement, order management, quality control, and shipment tracking
+* [Pivot88[(https://www.pivot88.com) - Supply chain resilience, transparency & sustainability PaaS
 
 ### Sustainable Practices
 * [amfori](https://www.amfori.org/en) - Business association for sustainable trade, supporting companies across the globe to operate successful and responsible businesses
