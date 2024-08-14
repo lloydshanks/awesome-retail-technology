@@ -10,6 +10,7 @@
 - [Order Management](#order-management)
 - [Warehouse](#warehouse)
 - [Inventory](#inventory)
+- [Sourcing](#sourcing)
 - [Product Data](#product-data)
 - [Merchandise Planning](#merchandise-planning)
 - [Supply Chain](#supply-chain)
@@ -111,6 +112,16 @@
 * [Cin7 Core](https://dearsystems.com) - solid Iventory/ERP for small to  medium businesses (was called DEAR Inventory), good core API, API depth isn't great though
 * [Trade Gecko](https://www.tradegecko.com) - purchased by Intuit and shut down
 * [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs 
+
+## Sourcing and Sustainability
+### Providers/Platforms
+* [TradeBeyond](https://tradebeyond.com) - SaaS sourcing software for supplier management, product lifecycle management, sourcing and procurement, order management, quality control, and shipment tracking
+
+### Sustainable Practices
+* [amfori](https://www.amfori.org/en) - Business association for sustainable trade, supporting companies across the globe to operate successful and responsible businesses
+* [WRAP](https://www.wrap.ngo) - Climate action NGO working around the globe to tackle the causes of the climate crisis and give the planet a sustainable future
+* [Higg Index](https://howtohigg.org) - Higgs Material Sustainability Index, how to assess materials used in production
+* [Wordly](https://worldly.io) - Consumer goods supply chain and product social and environmental impact
 
 ## Product Data
 ### Providers/Platforms
