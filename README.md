@@ -10,7 +10,7 @@
 - [Order Management](#order-management)
 - [Warehouse](#warehouse)
 - [Inventory](#inventory)
-- [Sourcing](#sourcing)
+- [Sourcing and Sustainability](#sourcing-and-sustainability)
 - [Product Data](#product-data)
 - [Merchandise Planning](#merchandise-planning)
 - [Supply Chain](#supply-chain)
