@@ -113,6 +113,7 @@
 ### Providers/Platforms
 * [TradeBeyond](https://tradebeyond.com) - SaaS sourcing software for supplier management, product lifecycle management, sourcing and procurement, order management, quality control, and shipment tracking
 * [Pivot88](https://www.pivot88.com) - Supply chain resilience, transparency & sustainability PaaS
+* [SpecRight](https://specright.com) - Product lifecycle management with new product development and supplier, sustainability, quality, annd packaging management
 
 ### Sustainable Practices
 * [amfori](https://www.amfori.org/en) - Business association for sustainable trade, supporting companies across the globe to operate successful and responsible businesses
