@@ -17,7 +17,7 @@
 - [Customer and Loyalty](#customer-and-loyalty)
 - [Integration](#integration)
 - [Marketplaces](#marketplaces)
-- [Insights](#insights)
+- [Business Intelligence and Insights](#business-intelligence-and-insights)
 - [Ancilliary Technologies](#ancilliary-technologies)
 - [Retail News](#retail-news)
 - [Retail Conferences](#retail-conferences)
