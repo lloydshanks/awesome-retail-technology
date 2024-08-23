@@ -5,22 +5,22 @@
 Contributions to this list are welcome! Contributions welcome! Read the [contribution guidelines](https://github.com/lloydshanks/awesome-retail-technology/blob/main/contributing.md) first.
 
 ## Contents
-- [eCommerce](#ecommerce)
-- [Point of Sale](#point-of-sale)
-- [Order Management](#order-management)
-- [Warehouse](#warehouse)
-- [Inventory](#inventory)
-- [Sourcing and Sustainability](#sourcing-and-sustainability)
-- [Product Data](#product-data)
-- [Merchandise Planning](#merchandise-planning)
-- [Supply Chain](#supply-chain)
-- [Customer and Loyalty](#customer-and-loyalty)
-- [Integration](#integration)
-- [Marketplaces](#marketplaces)
-- [Business Intelligence and Insights](#business-intelligence-and-insights)
-- [Ancillary Technologies](#ancillary-technologies)
-- [Retail News](#retail-news)
-- [Retail Conferences](#retail-conferences)
+* [eCommerce](#ecommerce)
+* [Point of Sale](#point-of-sale)
+* [Order Management](#order-management)
+* [Warehouse](#warehouse)
+* [Inventory](#inventory)
+* [Sourcing and Sustainability](#sourcing-and-sustainability)
+* [Product Data](#product-data)
+* [Merchandise Planning](#merchandise-planning)
+* [Supply Chain](#supply-chain)
+* [Customer and Loyalty](#customer-and-loyalty)
+* [Integration](#integration)
+* [Marketplaces](#marketplaces)
+* [Business Intelligence and Insights](#business-intelligence-and-insights)
+* [Ancillary Technologies](#ancillary-technologies)
+* [Retail News](#retail-news)
+* [Retail Conferences](#retail-conferences)
 
 ## eCommerce
 ### Headless
