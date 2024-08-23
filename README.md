@@ -25,25 +25,25 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 
 ## eCommerce
 ### Headless
-* [ElasticPath](https://www.elasticpath.com) - Headless eCommerce platform (acquired Moltin eCommerce in Jan 2020)
-* [commercetools](https://commercetools.com) - Headless eCommerce platform
-* [Saleor](https://saleor.io) - Headless eCommerce platform built on Django (Python)
-* [Vue Storefront](https://www.vuestorefront.io) - eCommerce PWA frontend built in Vue/Nuxt
-* [Kibo Commerce](https://kibocommerce.com) - Commerce platform with API-led focus targetting mid-tier companies (eCommerce, order management, Personalisation, POS) 
+* [ElasticPath](https://www.elasticpath.com) - Headless eCommerce platform (acquired Moltin eCommerce in Jan 2020).
+* [commercetools](https://commercetools.com) - Headless eCommerce platform.
+* [Saleor](https://saleor.io) - Headless eCommerce platform built on Django (Python).
+* [Vue Storefront](https://www.vuestorefront.io) - eCommerce PWA frontend built in Vue/Nuxt.
+* [Kibo Commerce](https://kibocommerce.com) - Commerce platform with API-led focus targetting mid-tier companies (eCommerce, order management, Personalisation, POS).
 
 ### Frontends
-* [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger)
-* [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware)
-* [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - owned by SAP
-* [Magento](https://magento.com) - open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe)
+* [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger).
+* [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware).
+* [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - Enterprise eCommerce solution, owned by SAP.
+* [Magento](https://magento.com) - open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe).
 
 ### Optimization
-* [Evolv](https://www.evolv.ai/) - Optimized A/B testing
+* [Evolv](https://www.evolv.ai/) - Optimized A/B testing.
 
 ### User Experience
 * [Hero](https://www.usehero.com) - Virtual shopping app, bring the store experience online.
-* [bambuser](https://bambuser.com) - Live Video Shopping
-* [Swym](https://swym.it/) - Enhanced wishlists and back in stock notifications for Shopify Plus, BigCommerce, and Magento
+* [bambuser](https://bambuser.com) - Live Video Shopping.
+* [Swym](https://swym.it/) - Enhanced wishlists and back in stock notifications for Shopify Plus, BigCommerce, and Magento.
 
 ### Promotions Management
 * [Voucherify](https://voucherify.io) - 
@@ -53,26 +53,26 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 
 ### Merchandising
 * [Tagalys](https://www.tagalys.com) -
-* [SearchSpring](https://searchspring.com) - Site Search, Merchandising and Personalization Platform
-* [Algolia](https://www.algolia.com) - Site seach with pre-built integrations to many eCommerce platforms
-* [Crownpeak](https://www.crownpeak.com/) - was called FredHopper, used by many medium to large eCommerce companies
+* [SearchSpring](https://searchspring.com) - Site Search, Merchandising and Personalization Platform.
+* [Algolia](https://www.algolia.com) - Site seach with pre-built integrations to many eCommerce platforms.
+* [Crownpeak](https://www.crownpeak.com/) - was called FredHopper, used by many medium to large eCommerce companies.
 
 ### Digital Asset Management
-* [Cloudinary](https://cloudinary.com) - enterprise asset management with advanced video and image processing automation
+* [Cloudinary](https://cloudinary.com) - enterprise asset management with advanced video and image processing automation.
 * [Brand Folder](https://brandfolder.com) - helps marketers and creatives manage and distribute all of their assets, owned by Smartsheet.
 
 ### Duty and Tax Calculation
-* [Avalara](https://www.avalara.com/us/en/products/integrations/shopify-plus.html) - Duty and tax landed cost management with tax advise assistance, plugins for WooCommerce, Shopify Plus, Magento, NetSuite and more
-* [Zonos](https://zonos.com) - International duty and tax landed cost calculation and reporting with plugins for BigComemrce, Shopify, and Magento amoung others
+* [Avalara](https://www.avalara.com/us/en/products/integrations/shopify-plus.html) - Duty and tax landed cost management with tax advise assistance, plugins for WooCommerce, Shopify Plus, Magento, NetSuite and more.
+* [Zonos](https://zonos.com) - International duty and tax landed cost calculation and reporting with plugins for BigComemrce, Shopify, and Magento amoung others.
 
 ## Point of Sale
 ### Software
-* [Retail Directions](https://www.retaildirections.com) - Australian POS and inventory system with customers like Cotton On, Body Shop, and MECCA
-* [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - Australian PO solution with customers like JB HiFi
-* [Surefire POS](https://surefiresystems.com) - Australian based POS solution focussing on FMCG customers
-* [Retail Pro](https://www.retailpro.com) - US based POS solution use by customers like LVMH
-* [VendHQ](https://www.vendhq.com/) - Cloud based POS for use on tablets, owned by Lightspeed
-* [ITVisions](https://www.itvisions.com.au) - Australian based POS solution
+* [Retail Directions](https://www.retaildirections.com) - Australian POS and inventory system with customers like Cotton On, Body Shop, and MECCA.
+* [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - Australian PO solution with customers like JB HiFi.
+* [Surefire POS](https://surefiresystems.com) - Australian based POS solution focussing on FMCG customers.
+* [Retail Pro](https://www.retailpro.com) - US based POS solution use by customers like LVMH.
+* [VendHQ](https://www.vendhq.com/) - Cloud based POS for use on tablets, owned by Lightspeed.
+* [ITVisions](https://www.itvisions.com.au) - Australian based POS solution.
 * [Apparel 21](https://apparel21.com) - Australian POS and inventory system specialising in apparel.
 * [Shopify POS](https://www.shopify.com/au/pos) - POS solutions from Shopify.
 
@@ -96,19 +96,19 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Peoplevox](https://www.peoplevox.com/en-us/) - SaaS WMS with many pre-built integrations to eCommerce and ERP platforms, also features an open API and the ability to subscribe to WMS events through webhooks.
 
 ### Warehouse Automation
-* [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic)
-* [Locus Robotics](https://locusrobotics.com) - Autonomous Mobile Robots for warehouse automation
-* [6 River Systems](https://6river.com/) - Autonomus Mobile Robots for warehouse automation
-* [HAI Robotoics](https://www.hairobotics.com) - AMR picking totes from fixed racks
-* [Korber Supply Chain](https://koerber-supplychain.com) - AMR and 3D storage solutions
+* [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic).
+* [Locus Robotics](https://locusrobotics.com) - Autonomous Mobile Robots for warehouse automation.
+* [6 River Systems](https://6river.com/) - Autonomus Mobile Robots for warehouse automation.
+* [HAI Robotoics](https://www.hairobotics.com) - AMR picking totes from fixed racks.
+* [Korber Supply Chain](https://koerber-supplychain.com) - AMR and 3D storage solutions.
 
 ## Inventory
 ### Providers/Platforms
-* [Unleashed Inventory](https://www.unleashedsoftware.com) - 
-* [Cin7 Omni](https://www.cin7.com) - Inventory system with wide ranging 3PL integrations, not very modern, API isn't great
-* [Cin7 Core](https://dearsystems.com) - solid Iventory/ERP for small to  medium businesses (was called DEAR Inventory), good core API, API depth isn't great though
-* [Trade Gecko](https://www.tradegecko.com) - purchased by Intuit and shut down
-* [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs 
+* [Unleashed Inventory](https://www.unleashedsoftware.com) - New Zealand based cloud inventory system aimed at small to medium sized businesses.
+* [Cin7 Omni](https://www.cin7.com) - Inventory system with wide ranging 3PL integrations, API is very rudimentary and not feature complete.
+* [Cin7 Core](https://dearsystems.com) - Solid Iventory/ERP for small to  medium businesses (was called DEAR Inventory), good core API, API depth isn't great though.
+* [Trade Gecko](https://www.tradegecko.com) - Purchased by Intuit and shut down.
+* [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs .
 
 ## Sourcing and Sustainability
 ### Providers/Platforms
@@ -165,41 +165,41 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Rudderstack](https://rudderstack.com) - 
 
 ### Communication
-* [Twilio](https://www.twilio.com) - IVR, SMS, Voice, Video, SIP, Email (Sendgrid)
-* [Freshdesk](https://www.freshworks.com) - Customer service ticketing (+ voice, chat)
-* [Moengage](https://www.moengage.com/) - Customer engagement plaform for apps and websites, handling analytics, app push, SMS, and email
-* [Dot Digital](https://dotdigital.com) - Email, SMS, Social
-* [Klaviyo](https://www.klaviyo.com) - Email marketing
-* [Emarsys](https://emarsys.com) - Email marketing
-* [Dash Hudson](https://dashhudson.com) - Social media management platform
-* [Gorgias](https://www.gorgias.com) - Customer service for online stores
-* [Zendesk](https://www.zendesk.com) - Customer service ticketing (+ voice, chat)
+* [Twilio](https://www.twilio.com) - IVR, SMS, Voice, Video, SIP, Email (Sendgrid).
+* [Freshdesk](https://www.freshworks.com) - Customer service ticketing (+ voice, chat).
+* [Moengage](https://www.moengage.com/) - Customer engagement plaform for apps and websites, handling analytics, app push, SMS, and email.
+* [Dot Digital](https://dotdigital.com) - Email, SMS, Social.
+* [Klaviyo](https://www.klaviyo.com) - Email marketing.
+* [Emarsys](https://emarsys.com) - Email marketing.
+* [Dash Hudson](https://dashhudson.com) - Social media management platform.
+* [Gorgias](https://www.gorgias.com) - Customer service for online stores.
+* [Zendesk](https://www.zendesk.com) - Customer service ticketing (+ voice, chat).
 
 ### Research and Testing
-* [Hearsay](https://hearsay.io) - Platform to facilitate qualitative customer conversations
-* [CrazyEgg](https://www.crazyegg.com) - User interface heatmaps and recordings
+* [Hearsay](https://hearsay.io) - Platform to facilitate qualitative customer conversations.
+* [CrazyEgg](https://www.crazyegg.com) - User interface heatmaps and recordings.
 
 ### Identity and Verifcation
-* [data zoo](https://www.datazoo.com/) - Identity verification and digital onboarding (100+ countries)
-* [RapidID](https://www.rapidid.com/) - Identity verification and anti-fraud prevention
+* [data zoo](https://www.datazoo.com/) - Identity verification and digital onboarding (100+ countries).
+* [RapidID](https://www.rapidid.com/) - Identity verification and anti-fraud prevention.
 
 ## Integration
 ### Providers/Platforms
-* [Apigee](https://cloud.google.com/apigee/#/homepage) - API management platform (owned by Google)
-* [Mashery](https://www.tibco.com/products/api-management) - API management platform (owned by TIBCO)
-* [Mulesoft](https://www.mulesoft.com) - API management platform (owned by Salesforce)
-* [Apiary](https://apiary.io) - API management platform (owned by Oracle)
-* [Kong](https://konghq.com) - API, service discovery and mesh management platform
-* [Celigo](https://www.celigo.com) - iPaaS, integration platform
-* [FarApp](https://www.farapp.com/products/) - integration between Netsuite and many eComemrce/3PL platforms
-* [Glew](https://www.glew.io) - SaaS integration platform more than 150 pre-built integrations
+* [Apigee](https://cloud.google.com/apigee/#/homepage) - API management platform (owned by Google).
+* [Mashery](https://www.tibco.com/products/api-management) - API management platform (owned by TIBCO).
+* [Mulesoft](https://www.mulesoft.com) - API management platform (owned by Salesforce).
+* [Apiary](https://apiary.io) - API management platform (owned by Oracle).
+* [Kong](https://konghq.com) - API, service discovery and mesh management platform.
+* [Celigo](https://www.celigo.com) - iPaaS, integration platform.
+* [FarApp](https://www.farapp.com/products/) - integration between Netsuite and many eComemrce/3PL platforms.
+* [Glew](https://www.glew.io) - SaaS integration platform more than 150 pre-built integrations.
 
 ## Marketplaces
 ### Providers/Platforms
-* [Mirakl](https://www.mirakl.com) - 
+* [Mirakl](https://www.mirakl.com) - French marketplace software.
 * [Tradebyte](https://www.tradebyte.com/en/) - 
 * [IZBERG](https://www.izberg-marketplace.com/fr/) -
-* [Marketplacer](https://marketplacer.com) - 
+* [Marketplacer](https://marketplacer.com) - Austalian marketplace software.
 
 ## Business Intelligence and Insights
 ### Providers/Platforms
