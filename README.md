@@ -3,6 +3,8 @@
 
 > A curated list of awesome retail software, platforms, and conferences.
 
+Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request.
+
 **Contents**
 - [eCommerce](#ecommerce)
 - [Point of Sale](#point-of-sale)
