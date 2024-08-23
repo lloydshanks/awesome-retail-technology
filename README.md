@@ -20,6 +20,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Business Intelligence and Insights](#business-intelligence-and-insights)
 * [Ancillary Technologies](#ancillary-technologies)
 * [Retail News](#retail-news)
+* [Retail Podcasts](#retail-podcasts)
 * [Retail Conferences](#retail-conferences)
 
 ## eCommerce
