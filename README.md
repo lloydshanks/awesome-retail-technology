@@ -2,7 +2,7 @@
 
 > A curated list of awesome retail software, platforms, and conferences.
 
-Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request.
+Contributions to this list are welcome! Contributions welcome! Read the [contribution guidelines](https://github.com/lloydshanks/awesome-retail-technology/blob/main/contributing.md) first.
 
 ## Contents
 - [eCommerce](#ecommerce)
