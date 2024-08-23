@@ -59,7 +59,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 
 ### Digital Asset Management
 * [Cloudinary](https://cloudinary.com) - enterprise asset management with advanced video and image processing automation
-* [Brand Folder](https://brandfolder.com/home/) - 
+* [Brand Folder](https://brandfolder.com) - helps marketers and creatives manage and distribute all of their assets, owned by Smartsheet.
 
 ### Duty and Tax Calculation
 * [Avalara](https://www.avalara.com/us/en/products/integrations/shopify-plus.html) - Duty and tax landed cost management with tax advise assistance, plugins for WooCommerce, Shopify Plus, Magento, NetSuite and more
@@ -67,21 +67,21 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 
 ## Point of Sale
 ### Software
-* [Retail Directions](https://www.retaildirections.com) - 
-* [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - 
-* [Surefire POS](https://surefiresystems.com) - 
-* [Retail Pro](https://www.retailpro.com) - 
-* [VendHQ](https://www.vendhq.com/) - 
-* [ITVisions](https://www.itvisions.com.au) - 
-* [Apparel 21](https://apparel21.com) -
-* [Shopify POS](
+* [Retail Directions](https://www.retaildirections.com) - Australian POS and inventory system with customers like Cotton On, Body Shop, and MECCA
+* [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - Australian PO solution with customers like JB HiFi
+* [Surefire POS](https://surefiresystems.com) - Australian based POS solution focussing on FMCG customers
+* [Retail Pro](https://www.retailpro.com) - US based POS solution use by customers like LVMH
+* [VendHQ](https://www.vendhq.com/) - Cloud based POS for use on tablets, owned by Lightspeed
+* [ITVisions](https://www.itvisions.com.au) - Australian based POS solution
+* [Apparel 21](https://apparel21.com) - Australian POS and inventory system specialising in apparel.
+* [Shopify POS](https://www.shopify.com/au/pos) - POS solutions from Shopify.
 
 ## Order Management
 ### Providers/Platforms
-* [Fluent Commerce](https://fluentcommerce.com) - Order management with buy online pick up in store capabilities
-* [Tecsys Retail Order Management](https://www.tecsys.com/supply-chain-solutions/retail-order-management/) - Order management for retailers, used to be called OrderDynamics pre-acquisition
-* [stockinstore](https://www.stockinstore.com/) - Buy online pick up in store (BOPIS) SaaS solution
-* [Doddle](https://www.doddle.com/au) - eCommerce Collections and Returns
+* [Fluent Commerce](https://fluentcommerce.com) - Order management with buy online pick up in store capabilities.
+* [Tecsys Retail Order Management](https://www.tecsys.com/supply-chain-solutions/retail-order-management/) - Order management for retailers, used to be called OrderDynamics pre-acquisition.
+* [stockinstore](https://www.stockinstore.com/) - Buy online pick up in store (BOPIS) SaaS solution.
+* [Doddle](https://www.doddle.com/au) - eCommerce Collections and Returns.
 * [Shipstation](https://www.shipstation.com/au/) - Order management platform with many carrier and platform integrations in addition to workflow tools.
 
 ## Warehouse
@@ -89,10 +89,10 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Warehouse and Distribution Science](https://www.warehouse-science.com/book/index.html)
 
 ### Warehouse Management Systems (WMS)
-* [ShipHero](https://shiphero.com) - great SaaS warehouse management system from a company which also runs over 100,000m2 of warehouses
-* [Manhattan](https://www.manh.com/products/warehouse-management) (purchase of Global Bay Technologies in 2014)
-* [Koerber](https://www.koerber-supplychain.com) (Koerber purchased HighHump which purchased Accellos)
-* [Microlistics](https://www.microlistics.com.au) (Purchased by Wisetech)
+* [ShipHero](https://shiphero.com) - great SaaS warehouse management system from a company which also runs over 100,000m2 of warehouses.
+* [Manhattan](https://www.manh.com/products/warehouse-management) - Enterprise WMS (purchase of Global Bay Technologies in 2014).
+* [Koerber](https://www.koerber-supplychain.com) - WMS with robotics solutions integrated (Koerber purchased HighHump which purchased Accellos).
+* [Microlistics](https://www.microlistics.com.au) - WMS for 3PL's, omnichannel retailers, and cold-storage operators (Purchased by Wisetech).
 * [Peoplevox](https://www.peoplevox.com/en-us/) - SaaS WMS with many pre-built integrations to eCommerce and ERP platforms, also features an open API and the ability to subscribe to WMS events through webhooks.
 
 ### Warehouse Automation
@@ -142,6 +142,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [project44](https://www.project44.com) - delivery API's
 * [Flexport](https://www.flexport.com)
 * [Wisetech Global](https://www.wisetechglobal.com)
+  
 ### EDI Providers
 * [IPT Systems](https://www.iptsystems.com/) - 
 * [True Commerce](https://www.truecommerce.com) -
