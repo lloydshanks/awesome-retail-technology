@@ -18,7 +18,7 @@
 - [Integration](#integration)
 - [Marketplaces](#marketplaces)
 - [Business Intelligence and Insights](#business-intelligence-and-insights)
-- [Ancilliary Technologies](#ancilliary-technologies)
+- [Ancillary Technologies](#ancillary-technologies)
 - [Retail News](#retail-news)
 - [Retail Conferences](#retail-conferences)
 
@@ -211,7 +211,7 @@
 * Superset
 * [Redash](https://redash.io) - Open source dashboard creation tool with integrations to many data storage solutions
 
-## Ancilliary Technology
+## Ancillary Technologies
 ### Providers/Plaftorms
 * [Yext](https://www.yext.com) - Search for customer queries, listings, pages, reviews, and more
 * Purple Wifi (Social Wifi connectivity)
