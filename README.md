@@ -4,7 +4,7 @@
 
 Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request.
 
-**Contents**
+## Contents
 - [eCommerce](#ecommerce)
 - [Point of Sale](#point-of-sale)
 - [Order Management](#order-management)
