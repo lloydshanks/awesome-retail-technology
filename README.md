@@ -20,8 +20,8 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Business Intelligence and Insights](#business-intelligence-and-insights)
 * [Ancillary Technologies](#ancillary-technologies)
 * [Retail News](#retail-news)
-* [Retail Podcasts](#retail-podcasts)
 * [Retail Conferences](#retail-conferences)
+* [Retail Podcasts](#retail-podcasts)
 
 ## eCommerce
 ### Headless
@@ -35,7 +35,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger).
 * [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware).
 * [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - Enterprise eCommerce solution, owned by SAP.
-* [Magento](https://magento.com) - open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe).
+* [Magento](https://magento.com) - Open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe).
 
 ### Optimization
 * [Evolv](https://www.evolv.ai/) - Optimized A/B testing.
@@ -46,16 +46,16 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Swym](https://swym.it/) - Enhanced wishlists and back in stock notifications for Shopify Plus, BigCommerce, and Magento.
 
 ### Promotions Management
-* [Voucherify](https://voucherify.io) - 
-* [Talon.One](https://www.talon.one/e-commerce) - 
-* [Uniqodo](https://www.uniqodo.com) -
-* [Eagle Eye](https://www.eagleeye.com) - 
+* [Voucherify](https://voucherify.io)
+* [Talon.One](https://www.talon.one/e-commerce)
+* [Uniqodo](https://www.uniqodo.co)
+* [Eagle Eye](https://www.eagleeye.com)
 
 ### Merchandising
 * [Tagalys](https://www.tagalys.com) -
 * [SearchSpring](https://searchspring.com) - Site Search, Merchandising and Personalization Platform.
 * [Algolia](https://www.algolia.com) - Site seach with pre-built integrations to many eCommerce platforms.
-* [Crownpeak](https://www.crownpeak.com/) - was called FredHopper, used by many medium to large eCommerce companies.
+* [Crownpeak](https://www.crownpeak.com/) - A site search tool previously called FredHopper, used by many medium to large eCommerce companies.
 
 ### Digital Asset Management
 * [Cloudinary](https://cloudinary.com) - enterprise asset management with advanced video and image processing automation.
@@ -100,7 +100,6 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Locus Robotics](https://locusrobotics.com) - Autonomous Mobile Robots for warehouse automation.
 * [6 River Systems](https://6river.com/) - Autonomus Mobile Robots for warehouse automation.
 * [HAI Robotoics](https://www.hairobotics.com) - AMR picking totes from fixed racks.
-* [Korber Supply Chain](https://koerber-supplychain.com) - AMR and 3D storage solutions.
 
 ## Inventory
 ### Providers/Platforms
@@ -108,61 +107,61 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Cin7 Omni](https://www.cin7.com) - Inventory system with wide ranging 3PL integrations, API is very rudimentary and not feature complete.
 * [Cin7 Core](https://dearsystems.com) - Solid Iventory/ERP for small to  medium businesses (was called DEAR Inventory), good core API, API depth isn't great though.
 * [Trade Gecko](https://www.tradegecko.com) - Purchased by Intuit and shut down.
-* [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs .
+* [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs.
 
 ## Sourcing and Sustainability
 ### Providers/Platforms
-* [TradeBeyond](https://tradebeyond.com) - SaaS sourcing software for supplier management, product lifecycle management, sourcing and procurement, order management, quality control, and shipment tracking
-* [Pivot88](https://www.pivot88.com) - Supply chain resilience, transparency & sustainability PaaS
-* [SpecRight](https://specright.com) - Product lifecycle management with new product development and supplier, sustainability, quality, annd packaging management
+* [TradeBeyond](https://tradebeyond.com) - SaaS sourcing software for supplier management, product lifecycle management, sourcing and procurement, order management, quality control, and shipment tracking.
+* [Pivot88](https://www.pivot88.com) - Supply chain resilience, transparency & sustainability PaaS.
+* [SpecRight](https://specright.com) - Product lifecycle management with new product development and supplier, sustainability, quality, annd packaging management.
 
 ### Sustainable Practices
-* [amfori](https://www.amfori.org/en) - Business association for sustainable trade, supporting companies across the globe to operate successful and responsible businesses
-* [WRAP](https://www.wrap.ngo) - Climate action NGO working around the globe to tackle the causes of the climate crisis and give the planet a sustainable future
-* [Higg Index](https://howtohigg.org) - Higgs Material Sustainability Index, how to assess materials used in production
-* [Wordly](https://worldly.io) - Consumer goods supply chain and product social and environmental impact
+* [amfori](https://www.amfori.org/en) - Business association for sustainable trade, supporting companies across the globe to operate successful and responsible businesses.
+* [WRAP](https://www.wrap.ngo) - Climate action NGO working around the globe to tackle the causes of the climate crisis and give the planet a sustainable future.
+* [Higg Index](https://howtohigg.org) - Higgs Material Sustainability Index, how to assess materials used in production.
+* [Wordly](https://worldly.io) - Consumer goods supply chain and product social and environmental impact.
 
 ## Product Data
 ### Providers/Platforms
-* [Pimcore](https://pimcore.com/en) - Product master data and asset management
-* [Arkeneo PIM](https://www.akeneo.com) - Product Information Management and Product Experience Management
+* [Pimcore](https://pimcore.com/en) - Product master data and asset management.
+* [Arkeneo PIM](https://www.akeneo.com) - Product Information Management and Product Experience Management.
 
 ## Merchandise Planning
-* [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/) - (Aptos acquired 2018)
-* [RELEX](https://www.relexsolutions.com)
-* [BlueYonder](https://blueyonder.com/solutions/merchandise-planning) (was JDA Demand and Fulfil)
-* [Infor Demand Management](https://www.infor.com/products/demand-management) (was Predictix - used by Whole Foods and Home Depot)
+* [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/) - Forecasting solution, acquired by Aptos in 2018.
+* [RELEX](https://www.relexsolutions.com) - Inventory forecasting solution.
+* [BlueYonder](https://blueyonder.com/solutions/merchandise-planning) - Merchandise forecasting, was previously named JDA Demand and Fulfil.
+* [Infor Demand Management](https://www.infor.com/products/demand-management) - Merchandise forecasting solution previously known as Predictix, used by Whole Foods and Home Depot.
 * [7thonline](https://www.7thonline.com)
-* [JustEnough](https://mi9retail.com/retail-demand-management-software/) (acquired by Mi9 Retail)
+* [JustEnough](https://mi9retail.com/retail-demand-management-software/) - Merchandise forecasting and replenishment system, acquired by Mi9 Retail.
 * [Logility](https://www.logility.com/solutions/demand-optimization/)
 * [Anaplan](https://www.anaplan.com)
 
 ## Supply Chain
-* [Shipwire](https://www.shipwire.com) - 3PL as an API
-* [project44](https://www.project44.com) - delivery API's
-* [Flexport](https://www.flexport.com)
-* [Wisetech Global](https://www.wisetechglobal.com)
+* [Shipwire](https://www.shipwire.com) - 3PL as an API.
+* [project44](https://www.project44.com) - Delivery API's.
+* [Flexport](https://www.flexport.com) - Supply chain softare based in the US, Shopify sold their fulfilment platform to them.
+* [Wisetech Global](https://www.wisetechglobal.com) - Enterprise supply chain software, most know for the platform called CargoWise.
   
 ### EDI Providers
-* [IPT Systems](https://www.iptsystems.com/) - 
-* [True Commerce](https://www.truecommerce.com) -
-* [Crossfire](https://www.crossfireintegration.com/solutions/edi-solutions/) - 
-* [SPS Commerce](https://www.spscommerce.com) -  
+* [IPT Systems](https://www.iptsystems.com/) - Australian based EDI solution.
+* [True Commerce](https://www.truecommerce.com)
+* [Crossfire](https://www.crossfireintegration.com/solutions/edi-solutions/) - Global supply chain and EDI software provider.
+* [SPS Commerce](https://www.spscommerce.com) - Global EDI solutions.
 
 ## Customer and Loyalty
 ### Loyalty
-* [Cheetah Digital](https://www.cheetahdigital.com) - Customer Engagement Suite, loyalty, personalisation, messaging, and experiences (API-first approach)
+* [Cheetah Digital](https://www.cheetahdigital.com) - Customer Engagement Suite, loyalty, personalisation, messaging, and experiences (API-first approach).
 * [bLoyal](https://bloyal.com)
-* [Kognitiv](https://kognitiv.com) - was AIMIA Loyalty
-* [Arkade Loyalty](https://arkade.com.au/loyalty-programs) - Loyalty and clientelling
-* [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS 
+* [Kognitiv](https://kognitiv.com) - Previously know as AIMIA Loyalty.
+* [Arkade Loyalty](https://arkade.com.au/loyalty-programs) - Creator of the loyalty and clientelling platform called Omneo.
+* [Givex Loyalty](https://www.givex.com) - Loyalty, gift cards, ticketing, POS.
 
 ### Customer Data Platforms
-* [Lexer](https://lexer.io) - Customer data collect, analyse, segment, and integrate audiences to external platforms
-* [Segment](https://segment.com) - 
-* [Simon Data](https://www.simondata.com) - First party data collection, 60+ integrations with existing platforms, audience generation, email marketing
-* [Hull](https://www.hull.io) - 
-* [Rudderstack](https://rudderstack.com) - 
+* [Lexer](https://lexer.io) - Customer data collect, analyse, segment, and integrate audiences to external platforms.
+* [Segment](https://segment.com) - Purchase by Twilio, customer data platform with many prebuild integrations and a customer profile management tool.
+* [Simon Data](https://www.simondata.com) - First party data collection, 60+ integrations with existing platforms, audience generation, email marketing.
+* [Hull](https://www.hull.io)
+* [Rudderstack](https://rudderstack.com)
 
 ### Communication
 * [Twilio](https://www.twilio.com) - IVR, SMS, Voice, Video, SIP, Email (Sendgrid).
@@ -197,46 +196,42 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 ## Marketplaces
 ### Providers/Platforms
 * [Mirakl](https://www.mirakl.com) - French marketplace software.
-* [Tradebyte](https://www.tradebyte.com/en/) - 
-* [IZBERG](https://www.izberg-marketplace.com/fr/) -
+* [Tradebyte](https://www.tradebyte.com/en/)
+* [IZBERG](https://www.izberg-marketplace.com/fr/)
 * [Marketplacer](https://marketplacer.com) - Austalian marketplace software.
 
 ## Business Intelligence and Insights
 ### Providers/Platforms
-* [Amazon Web Services](https://aws.amazon.com) - Composable cloud analytics tools (AWS RedShift, AWS Glue, QuickSight)
-* [Prefect](https://www.prefect.io) - Dataflow automation 
-* Python - PANDAS/SciKitLearn
-* Apache Spark
-* Sentient.ai (example: shoeme.ca)
-* Tableau
-* Metabase
-* Superset
-* [Redash](https://redash.io) - Open source dashboard creation tool with integrations to many data storage solutions
+* [Amazon Web Services](https://aws.amazon.com) - Composable cloud analytics tools (AWS RedShift, AWS Glue, QuickSight).
+* [Prefect](https://www.prefect.io) - Dataflow automation.
+* [Tableau](https://www.tableau.com) - Dashboard and reporting writing solution owned by Salesforce.
+* [Metabase](https://www.metabase.com) - Dashboard and analytics tool allowing users to explore their retail data.
+* [Superset](https://superset.apache.org) - Open-source modern data exploration and visualization platform.
+* [Redash](https://redash.io) - Open source dashboard creation tool with integrations to many data storage solutions.
 
 ## Ancillary Technologies
 ### Providers/Plaftorms
 * [Yext](https://www.yext.com) - Search for customer queries, listings, pages, reviews, and more
-* Purple Wifi (Social Wifi connectivity)
-* mPort MyPassport - fashion and health measurements
+* [Purple Wifi](https://purple.ai) - Guests and social Wifi solutions.
 * [Queue It](https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
-* [FittingBox](https://www.fittingbox.com/en/) - The mirror reinvented
-* [Clerk](https://clerk.com) - Sophisticated user authentication
-* [Vusion](https://www.vusion.com) - IoT, in-store digital campaigns, electronic shelf labelling, and retail store data platforms
+* [FittingBox](https://www.fittingbox.com/en/) - The mirror reinvented.
+* [Clerk](https://clerk.com) - Sophisticated user authentication.
+* [Vusion](https://www.vusion.com) - IoT, in-store digital campaigns, electronic shelf labelling, and retail store data platforms.
 
 ## Retail News
 * [RetailWeek](http://www.retail-week.com)
 * [RetailWire](http://www.retailwire.com)
-* [Inside Retail](http://insideretail.com.au) - Australian retail news
-* [Power Retail](http://www.powerretail.com.au) - Australian retail news
+* [Inside Retail](http://insideretail.com.au) - Australian retail news.
+* [Power Retail](http://www.powerretail.com.au) - Australian retail news.
 * [Retail Info Systems News](http://risnews.edgl.com/)
 
 ## Retail Conferences
-* [Inside Retail Live](https://insideretail.live/) - Sydney 
-* [IMedia Retail Summit](http://imediasummit.com.au/) - Gold Coast
-* [Seamless Expo](http://seamless-expo.com.au/) - Melbourne
-* [Shop Talk](http://www.shoptalk.com/) - Las Vegas
-* [Retail Leaders Forum](http://retailleaders.com.au/) - Sydney 
-* [Online Retailer](http://www.onlineretailer.com/) - Melbourne, Sydney, New Zealand 
+* [Inside Retail Live](https://insideretail.live/) - Australian retail conference in Sydney.
+* [IMedia Retail Summit](http://imediasummit.com.au/) - Australian retail conference on Gold Coast.
+* [Seamless Expo](http://seamless-expo.com.au/) - Australian retail conference in Melbourne.
+* [Shop Talk](http://www.shoptalk.com/) - Las Vegas based retail conference.
+* [Retail Leaders Forum](http://retailleaders.com.au/) - Australian retail conference in Sydney.
+* [Online Retailer](http://www.onlineretailer.com/) - Australian retail conference rain in Melbourne, Sydney, and New Zealand.
 
 ## Retail Podcasts
 * [Shopology](https://podcasts.apple.com/au/podcast/shopology/id1516972200)
