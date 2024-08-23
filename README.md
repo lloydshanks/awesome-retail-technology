@@ -52,14 +52,14 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Eagle Eye](https://www.eagleeye.com)
 
 ### Merchandising
-* [Tagalys](https://www.tagalys.com) -
+* [Tagalys](https://www.tagalys.com) - Visual product merchandisting for Magento, Shopify, and BigCommerce.
 * [SearchSpring](https://searchspring.com) - Site Search, Merchandising and Personalization Platform.
 * [Algolia](https://www.algolia.com) - Site seach with pre-built integrations to many eCommerce platforms.
 * [Crownpeak](https://www.crownpeak.com/) - A site search tool previously called FredHopper, used by many medium to large eCommerce companies.
 
 ### Digital Asset Management
-* [Cloudinary](https://cloudinary.com) - enterprise asset management with advanced video and image processing automation.
-* [Brand Folder](https://brandfolder.com) - helps marketers and creatives manage and distribute all of their assets, owned by Smartsheet.
+* [Cloudinary](https://cloudinary.com) - Enterprise asset management with advanced video and image processing automation.
+* [Brand Folder](https://brandfolder.com) - Platform which aims to help marketers and creatives manage and distribute all of their assets, owned by Smartsheet.
 
 ### Duty and Tax Calculation
 * [Avalara](https://www.avalara.com/us/en/products/integrations/shopify-plus.html) - Duty and tax landed cost management with tax advise assistance, plugins for WooCommerce, Shopify Plus, Magento, NetSuite and more.
@@ -89,7 +89,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Warehouse and Distribution Science](https://www.warehouse-science.com/book/index.html)
 
 ### Warehouse Management Systems (WMS)
-* [ShipHero](https://shiphero.com) - great SaaS warehouse management system from a company which also runs over 100,000m2 of warehouses.
+* [ShipHero](https://shiphero.com) - Great SaaS warehouse management system from a company which also runs over 100,000m2 of its own warehouses.
 * [Manhattan](https://www.manh.com/products/warehouse-management) - Enterprise WMS (purchase of Global Bay Technologies in 2014).
 * [Koerber](https://www.koerber-supplychain.com) - WMS with robotics solutions integrated (Koerber purchased HighHump which purchased Accellos).
 * [Microlistics](https://www.microlistics.com.au) - WMS for 3PL's, omnichannel retailers, and cold-storage operators (Purchased by Wisetech).
@@ -190,7 +190,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Apiary](https://apiary.io) - API management platform (owned by Oracle).
 * [Kong](https://konghq.com) - API, service discovery and mesh management platform.
 * [Celigo](https://www.celigo.com) - iPaaS, integration platform.
-* [FarApp](https://www.farapp.com/products/) - integration between Netsuite and many eComemrce/3PL platforms.
+* [FarApp](https://www.farapp.com/products/) - Integration between Netsuite and many eCommerce/3PL platforms.
 * [Glew](https://www.glew.io) - SaaS integration platform more than 150 pre-built integrations.
 
 ## Marketplaces
@@ -211,7 +211,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 
 ## Ancillary Technologies
 ### Providers/Plaftorms
-* [Yext](https://www.yext.com) - Search for customer queries, listings, pages, reviews, and more
+* [Yext](https://www.yext.com) - Search for customer queries, listings, pages, reviews, and more.
 * [Purple Wifi](https://purple.ai) - Guests and social Wifi solutions.
 * [Queue It](https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
 * [FittingBox](https://www.fittingbox.com/en/) - The mirror reinvented.
