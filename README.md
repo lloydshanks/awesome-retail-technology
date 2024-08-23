@@ -211,7 +211,7 @@
 * Superset
 * [Redash](https://redash.io) - Open source dashboard creation tool with integrations to many data storage solutions
 
-## Ancillary Technology
+## Ancilliary Technology
 ### Providers/Plaftorms
 * [Yext](https://www.yext.com) - Search for customer queries, listings, pages, reviews, and more
 * Purple Wifi (Social Wifi connectivity)
@@ -219,6 +219,7 @@
 * [Queue It](https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
 * [FittingBox](https://www.fittingbox.com/en/) - The mirror reinvented
 * [Clerk](https://clerk.com) - Sophisticated user authentication
+* [Vusion](https://www.vusion.com) - IoT, in-store digital campaigns, electronic shelf labelling, and retail store data platforms
 
 ## Retail News
 * [RetailWeek](http://www.retail-week.com)
