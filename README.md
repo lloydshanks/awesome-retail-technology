@@ -1,5 +1,4 @@
-# Awesome Retail Technology
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Retail Technology [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of awesome retail software, platforms, and conferences.
 
