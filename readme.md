@@ -46,10 +46,10 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Swym](https://swym.it/) - Enhanced wishlists and back in stock notifications for Shopify Plus, BigCommerce, and Magento.
 
 ### Promotions Management
-* [Voucherify](https://voucherify.io)
-* [Talon.One](https://www.talon.one/e-commerce)
-* [Uniqodo](https://www.uniqodo.co)
-* [Eagle Eye](https://www.eagleeye.com)
+* [Voucherify](https://voucherify.io) - API-first promotion and loyalty engine, focussing on coupons and cart-level promotions.
+* [Talon.One](https://www.talon.one) - Loyalty tiering and real-time personalised promotions.
+* [Uniqodo](https://www.uniqodo.com) - Coupon issurance, validation, and redemption as well as content gate for exclusive access.
+* [Eagle Eye](https://www.eagleeye.com) - Real time loyalty and omni-channel promotions.
 
 ### Merchandising
 * [Tagalys](https://www.tagalys.com) - Visual product merchandisting for Magento, Shopify, and BigCommerce.
@@ -144,7 +144,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
   
 ### EDI Providers
 * [IPT Systems](https://www.iptsystems.com/) - Australian based EDI solution.
-* [True Commerce](https://www.truecommerce.com)
+* [True Commerce](https://www.truecommerce.com) - Global EDI solution with many pre-build ERP integrations.
 * [Crossfire](https://www.crossfireintegration.com/solutions/edi-solutions/) - Global supply chain and EDI software provider.
 * [SPS Commerce](https://www.spscommerce.com) - Global EDI solutions.
 
@@ -219,11 +219,11 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Vusion](https://www.vusion.com) - IoT, in-store digital campaigns, electronic shelf labelling, and retail store data platforms.
 
 ## Retail News
-* [RetailWeek](http://www.retail-week.com)
-* [RetailWire](http://www.retailwire.com)
-* [Inside Retail](http://insideretail.com.au) - Australian retail news.
-* [Power Retail](http://www.powerretail.com.au) - Australian retail news.
-* [Retail Info Systems News](http://risnews.edgl.com/)
+* [RetailWeek](https://www.retail-week.com) - London based retail news.
+* [RetailWire](https://www.retailwire.com) - US based retail news.
+* [Inside Retail](https://insideretail.com.au) - Australian retail news.
+* [Power Retail](https://www.powerretail.com.au) - Australian retail news.
+* [Retail Info Systems News](https://risnews.edgl.com/) - US based retail news.
 
 ## Retail Conferences
 * [Inside Retail Live](https://insideretail.live/) - Australian retail conference in Sydney.
