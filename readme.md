@@ -32,13 +32,13 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Kibo Commerce](https://kibocommerce.com) - Commerce platform with API-led focus targetting mid-tier companies (eCommerce, order management, Personalisation, POS).
 
 ### Frontends
-* [Shopify](https://www.shopify.com) - eCommerce software as a service platform (Shopify for smaller retailers, Shopify Plus for larger).
+* [Shopify](https://www.shopify.com) - eCommerce SaaS platform with basic POS functionality and broad GraphQL API, different plans/feature sets to suite smaller retailers (Shopify), medium sized (Shopify Advanced), or larger (Shopify Plus).
 * [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) - eCommerce software as a service platform (previously called Demandware).
 * [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - Enterprise eCommerce solution, owned by SAP.
 * [Magento](https://magento.com) - Open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe).
 
 ### Operations
-* [Brauz](https://brauz.com/) - Reserve In Store, Find in Store,  Click + Collect, Appointment Booking, and Video Commerce solution which can integrate with Shopify
+* [Brauz](https://brauz.com/) - Reserve In Store, Find in Store,  Click + Collect, Appointment Booking, and Video Commerce solution which can integrate with Shopify.
 
 ### Optimization
 * [Evolv](https://www.evolv.ai/) - Optimized A/B testing.
@@ -96,7 +96,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Manhattan](https://www.manh.com/products/warehouse-management) - Enterprise WMS (purchase of Global Bay Technologies in 2014).
 * [Koerber](https://www.koerber-supplychain.com) - WMS with robotics solutions integrated (Koerber purchased HighHump which purchased Accellos).
 * [Microlistics](https://www.microlistics.com.au) - WMS for 3PL's, omnichannel retailers, and cold-storage operators (Purchased by Wisetech).
-* [Peoplevox](https://www.peoplevox.com/en-us/) - SaaS WMS with many pre-built integrations to eCommerce and ERP platforms, also features an open API and the ability to subscribe to WMS events through webhooks.
+* [Peoplevox](https://www.peoplevox.com/en-us/) - SaaS WMS with many pre-built integrations to eCommerce and ERP platforms, also features a XML based API and the ability to subscribe to WMS events through webhooks.
 
 ### Warehouse Automation
 * [Vanderlande](https://www.vanderlande.com/warehousing/) - Warehouse Goods to Person automation systems and robotics (Nike/Amazon/Alibaba/Zalando/The Iconic).
