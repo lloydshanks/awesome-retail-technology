@@ -37,6 +37,9 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) - Enterprise eCommerce solution, owned by SAP.
 * [Magento](https://magento.com) - Open source eCommerce platform written in PHP, recently moved to being offered in a software as a service approach (previously owned by eBay, now owned by Adobe).
 
+### Operations
+* [Brauz](https://brauz.com/) - Reserve In Store, Find in Store,  Click + Collect, Appointment Booking, and Video Commerce solution which can integrate with Shopify
+
 ### Optimization
 * [Evolv](https://www.evolv.ai/) - Optimized A/B testing.
 
