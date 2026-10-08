@@ -111,6 +111,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Cin7 Core](https://dearsystems.com) - Solid Iventory/ERP for small to  medium businesses (was called DEAR Inventory), good core API, API depth isn't great though.
 * [Trade Gecko](https://www.tradegecko.com) - Purchased by Intuit and shut down.
 * [Fulfil.io](https://www.fulfil.io) - Modern Product inventory and finance sytems with great 3PL APIs.
+* [Ofisx](https://ofisx.com/en) - Turkish mobile-first inventory app for small shops (Android, iOS, web) with barcode sales, low-stock alerts and customer credit ledger; a separate offline app works without internet.
 
 ## Sourcing and Sustainability
 ### Providers/Platforms
